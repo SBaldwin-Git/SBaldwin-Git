@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about Full Stack Development with School of Code!
+
+I plan to update this page regularly as my journey into learning Full Stack Development to showcase my growth for others, but also myself so I can see how i have progressed and how I was when i started.
+
 <!--
 **SBaldwin-Git/SBaldwin-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
