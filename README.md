@@ -1,37 +1,17 @@
-# Greetings! I'm Sam🌟
+# Hi I'm Sam🌟
 
-Aspiring developer with a focus on mastering various technologies and recent graduate of the School of Code bootcamp!
+I'm an aspiring web developer based around London!
 
-Here's a snapshot of my skills and experience:
-
-## 📚 Currently Learning
-
-Looking to expand my knowledge of React with Next.JS, and using TypeScript to take my existing JavaScript knowledge to the next level.
-
-- Next.JS
-- TypeScript
-- Ruby
-
-## 💻 Skills
-
-- **Languages:** JavaScript, TypeScript, Java
-- **Web Technologies:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks:** React, Node.js (Express)
-- **Databases:** Supabase, PostgreSQL
-- **Testing:** Jest (for JavaScript/TypeScript testing)
-- **Tools:** Git, npm, Webpack, Replit, Postman
-
-## 🛠️ Projects
-
-Check out some of the projects I've worked on:
-
-1. [Memory Companion (Frontend)](https://github.com/SBaldwin-Git/ByteSquad-frontend-MemoryCompanion) [and Backend](https://github.com/SBaldwin-Git/ByteSquad-backend-MemoryCompanion) - In a concise 4-week group project, we developed Memory Companion, a user-friendly app tailored for individuals with memory-related conditions. The app stores memories, incorporates visual prompts, and delivers customized daily reminders, promoting social care and independence. Our tech stack—featuring React.js, Node.js, and PostgreSQL—enabled the creation of an efficient and accessible solution. Prioritizing simplicity and practicality ensures usability, effectively addressing the challenges faced by individuals with various memory-related conditions. Within this project, I was mostly responsible for much of the FrontEnd logic and styling.
-2. [Snowball Fight Club!](https://github.com/SBaldwin-Git/snowball-fight-club-deployed) - In January 2024, I participated in the Feliz Navi: Hack Fusion x School of Code hackathon at TravelPerk. Our team created Snowball Fight Club, a Christmas-themed app using React in TypeScript and React-Leaflet for geolocation, fostering social interactions through virtual snowball fights. In this project, I was mostly responsible for the sidebar and linking it to the events on the map.
-3. [Pokedex Web App (WIP)](https://github.com/SBaldwin-Git/pokedex) - Currently in progress, my Pokedex web app is a React project focused on enhancing my skills in responsive design, local storage(Specifically browser cookies), and Material UI. Leveraging the Poke API, it provides detailed information about Pokemon while serving as a playground for honing my React proficiency. Emphasizing a clean and visually appealing UI, this project is a testament to my ongoing commitment to continuous learning and improvement in web development.
+# 💫 About Me:
+🔭 I’m currently working on my Portfolio Page - https://github.com/SBaldwin-Git/portfolio<br>👯 Previously I have collaborated on Memory Companion - https://github.com/SBaldwin-Git/ByteSquad-frontend-MemoryCompanion<br>🏆 I have also won TravelPerk's best hack at the SoC x Fusion Hackathon with Snowball Fightclub - https://github.com/SBaldwin-Git/snowball-fight-club-deployed<br>🌱 I’m currently learning Next.js and RESTful API's!<br>📫 You can reach me at sambaldwin92@gmail.com<br>👨‍💻 All of my projects will soon be available at (URL WIP) - https://portfolio-two-tau-85.vercel.app/<br>📄 Know about my experiences - https://tinyurl.com/yc53mwrc
 
 
-## 🌐 Connect
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sambaldwin1) 
 
-- [LinkedIn](https://www.linkedin.com/in/sam-baldwin-937924130/)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SBaldwin-Git&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-I'm open to new opportunities and collaborations. Let's build something together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
